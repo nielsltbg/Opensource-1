@@ -1,5 +1,5 @@
 echo "Het script voor een nextcloud omgeving wordt nu uitgevoerd"
-
+tering lelijk
 echo "welke webserver wil je? apache/nginx/lighttp"
 
 read webserver
